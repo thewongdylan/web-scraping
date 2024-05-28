@@ -1,0 +1,5 @@
+# Ignore virtualenv directory
+/ws_venv
+
+# Ignore data files
+/data
